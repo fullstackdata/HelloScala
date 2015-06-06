@@ -1,0 +1,32 @@
+package
+clean
+package
+clean
+package
+clean
+package
+clean
+package
+version
+assembly
+publishLocal
+exit
+assembly
+exit
+assembly
+exit
+assembly
+refresh
+load
+reload
+assembly
+last *:assembly
+show update
+reload
+assembly
+last *:assembly
+clean
+reload
+assembly
+reload
+assembly
